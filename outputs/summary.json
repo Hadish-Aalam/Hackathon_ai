@@ -1,0 +1,16 @@
+{
+  "configured": {
+    "peak_voltage_v": 25.455844122715714,
+    "minimum_id_a": -7.9999774916192505,
+    "peak_actual_l1_current_a": 10.024357790066277,
+    "high_speed_mean_rad_s": 259.999992628873,
+    "final_temperature_c": 25.80842406137946
+  },
+  "without_fw": {
+    "peak_voltage_v": 25.455844122715718,
+    "minimum_id_a": -0.015980431062109342,
+    "peak_actual_l1_current_a": 10.766568853685744,
+    "high_speed_mean_rad_s": 151.69655223640956,
+    "final_temperature_c": 25.110823154520155
+  }
+}

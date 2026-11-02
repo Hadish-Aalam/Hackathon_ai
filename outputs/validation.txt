@@ -1,0 +1,5 @@
+Validation on Python 3.12.14, NumPy 2.3.5, Matplotlib 3.10.8
+python -m unittest discover -s tests -v: 7 tests passed
+Default configured and disabled-field-weakening simulations completed (3 seconds each).
+Full configured run: dt=0.0001 versus dt=0.00005 seconds, maximum sampled speed difference=0.06491659124640137 rad/s.
+Plots inspected. No original Simulink traces supplied; numerical parity unverified.
